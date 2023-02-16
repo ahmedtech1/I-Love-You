@@ -1,0 +1,24 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color: red;
+    display: flex;
+}
+
+h1::selection {
+    background-color: white
+}
+
+.i {
+    margin: 300px 400px 0;
+}
+
+.love {
+    margin: 100px 270px 0;
+}
+
+.you {
+    margin: 50px 600px 0;
+}
